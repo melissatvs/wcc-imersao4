@@ -1,5 +1,4 @@
 import React from "react";
-
 import TopInfo from "../TopInfo";
 import Logo from "../../images/logo-instagram.png";
 
@@ -13,3 +12,4 @@ export default function Header() {
     </div>
   );
 }
+
