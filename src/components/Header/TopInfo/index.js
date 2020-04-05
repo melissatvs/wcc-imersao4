@@ -1,8 +1,10 @@
 import React, { Component } from "react";
 import { FiUser, FiHeart } from "react-icons/fi";
 import { connect } from "react-redux";
+import { Link } from 'react-router-dom'
 
 class TopInfo extends Component {
+  
   render() {
     const { contador, user } = this.props
     
@@ -13,8 +15,10 @@ class TopInfo extends Component {
           <b>{contador}</b>
         </span>        
         <span>
-          <FiUser />
-          {user}
+          <Link to="/profile">
+            <FiUser />
+            {user}
+          </Link>
         </span>        
       </div>
     );

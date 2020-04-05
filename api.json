@@ -12,7 +12,7 @@
       "id": 2,
       "user": "history",
       "userPicture": "https://randomuser.me/api/portraits/men/22.jpg",
-      "postPicture": "https://instagram.fcpq4-1.fna.fbcdn.net/vp/591fc84e5fcc45e10203bdd893595c1f/5E880321/t51.2885-15/sh0.08/e35/s750x750/73512608_558080658329812_7929171608287995525_n.jpg?_nc_ht=instagram.fcpq4-1.fna.fbcdn.net&_nc_cat=104",
+      "postPicture": "https://prod-cdn-history-co-uk.s3.amazonaws.com/s3fs-public/styles/landscape__desktop/public/orson-welles-war-worlds_1.jpg?timestamp=1495790572",
       "description": "On #ThisDayinHistory 1938, Orson Welles caused a nationwide panic with his broadcast of “War of the Worlds”—a realistic radio dramatization of a Martian invasion of Earth"
     },
     {
@@ -60,25 +60,19 @@
   ],
   "user": {
     "id": 101,
-    "name": "Jeniffer Carvalho",
-    "username": "jenicarvalho",
-    "likes": 68
+    "name": "Melissa TVS",
+    "username": "melissaaaa",
+    "likes": 111
   },
   "perfil": {
-    "userPicture": "https://randomuser.me/api/portraits/women/19.jpg",
-    "name": "Jeniffer Carvalho",
+    "userPicture": "https://randomuser.me/api/portraits/women/21.jpg",
+    "name": "Melissa TVS",
     "age": 12,
     "joinAt": "09/12/2019",
     "bio": "Dev Front end vida loca",
     "site": "www.google.com",
-    "stacks": [
-      "React",
-      "Redux",
-      "JSX",
-      "Consumo de APIs Rest",
-      "ES6+",
-      "HTML",
-      "CSS"
-    ]
+    "posts": 10,
+    "followers": 226,
+    "following": 197
   }
 }
